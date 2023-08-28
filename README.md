@@ -1,23 +1,13 @@
-- 👋 Hi, I’m @Shoxie13
-- 👀 I’m interested in Web and Application development
-- 🌱 I’m currently learning Application Development for iOS devices using Swift.
-- 💞️ I’m looking to collaborate on anything that interests me.
-
-<!---
-Shoxie13/Shoxie13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Tareq</h1>
-<h3 align="center">A passionate full-stack developer from Bulgaria</h3>
+<h3 align="center">A recent graduate that is passionate about full-stack development from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoxie13&label=Profile%20views&color=0e75b6&style=flat" alt="shoxie13" /> </p>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **iOS Development**
+- 🤝 I’m looking for help with **Full-Stack Development**
 
 - 💬 Ask me about **React, Bootstrap, Node.js**
 
