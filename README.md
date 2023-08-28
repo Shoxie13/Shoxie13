@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **iOS Development**
+- 🤝 I’m looking for help with **Full-Stack Development**
 
 - 💬 Ask me about **React, Bootstrap, Node.js**
 
