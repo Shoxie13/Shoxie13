@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently improving my **JavaScript**
 
 - 🤝 I’m looking for help with **Full-Stack Development**
 
-- 💬 Ask me about **React, Bootstrap, Node.js**
+- 💬 Ask me about **React, MUI, Node.js**
 
 - 📫 How to reach me **tareq.abdi13@gmail.com**
 
