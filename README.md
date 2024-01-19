@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoxie13&theme=dark" alt="shoxie13" /></p>
 
-<h3 align="left">Past Projects that are not Visible currently:</h3>
+<h3 align="left">Past Projects That Are Private Currently:</h3>
 <p align="left">
 https://toolly.vercel.app/
 </p>
