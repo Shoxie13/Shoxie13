@@ -27,6 +27,10 @@
 
 <h3 align="left">Past Projects That Are Private Currently:</h3>
 <p align="left">
-https://toolly.vercel.app/
+  
+- https://toolly.vercel.app
+  
+- weather-app-shoxie13.vercel.app
+  
 </p>
 
