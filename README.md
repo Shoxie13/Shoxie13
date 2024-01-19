@@ -30,7 +30,7 @@
   
 - https://toolly.vercel.app
   
-- weather-app-shoxie13.vercel.app
+- https://weather-app-shoxie13.vercel.app
   
 </p>
 
