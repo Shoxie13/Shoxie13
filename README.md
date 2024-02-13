@@ -28,17 +28,17 @@
 <h3 align="left">Past Projects That Are Private Currently:</h3>
 <p align="left">
   
-- <a href="https://toolly.vercel.app">Property and Finance Project</a>
+- <a href="https://toolly.vercel.app">Property and Finance Web Project</a>
   
-- https://weather-app-shoxie13.vercel.app
+- <a href="https://weather-app-shoxie13.vercel.app">Simple Weather App</a>
 
-- https://shopify-last-straw.vercel.app
+- <a href="https://blockchain-app-eta.vercel.app">First WebGL Web Project</a>
 
-- https://new-york-restaurants-lovat.vercel.app
+- <a href="https://shopify-last-straw.vercel.app">Spotify App</a>
 
-- https://blockchain-app-eta.vercel.app
+- <a href="https://new-york-restaurants-lovat.vercel.app">New York Restaurants App</a>
 
-- shoxie13.github.io
+- <a href="https://shoxie13.github.io/">First Ever Web Project</a>
   
 </p>
 
