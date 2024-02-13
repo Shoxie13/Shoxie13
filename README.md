@@ -28,7 +28,7 @@
 <h3 align="left">Past Projects That Are Private Currently:</h3>
 <p align="left">
   
-- https://toolly.vercel.app
+- <a href="https://toolly.vercel.app">Property and Finance Project</a>
   
 - https://weather-app-shoxie13.vercel.app
 
@@ -37,6 +37,8 @@
 - https://new-york-restaurants-lovat.vercel.app
 
 - https://blockchain-app-eta.vercel.app
+
+- shoxie13.github.io
   
 </p>
 
