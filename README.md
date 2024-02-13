@@ -31,6 +31,12 @@
 - https://toolly.vercel.app
   
 - https://weather-app-shoxie13.vercel.app
+
+- https://shopify-last-straw.vercel.app
+
+- https://new-york-restaurants-lovat.vercel.app
+
+- https://blockchain-app-eta.vercel.app
   
 </p>
 
