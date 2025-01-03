@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoxie13&label=Profile%20visits&color=000000&style=flat-square" alt="shoxie13" /> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
-
-- 🌱 I’m currently improving my **JavaScript**
-
-- 🤝 I’m looking for help with **Full-Stack Development**
-
-- 💬 Ask me about **React, MUI, Node.js**
-
-- 📫 How to reach me **tareq.abdi13@gmail.com**
-
-- ⚡ Fun fact **I like to think that humanity is wasting its' potential.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tabdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tabdi" height="30" width="40" /></a>
